@@ -1,6 +1,6 @@
 <head>
 </head>
-<form action="FriendsBook.php" method="get">
+<form action="index.php" method="get">
 name: <input type="text" name="name">
 <input type="submit">
 </form>
@@ -52,7 +52,7 @@ name: <input type="text" name="name">
 	}*/
 ?>
 </body>
-<form action="FriendsBook.php" method="post">
+<form action="index.php" method="post">
 filter: <input type="text" name="filter">
 <input type="submit">
 </form>
